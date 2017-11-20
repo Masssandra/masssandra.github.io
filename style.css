@@ -1,0 +1,35 @@
+.jumbotron {
+    background: url("img/bg-3.jpg") no-repeat center center;
+    background-size: cover;
+}
+
+.display-3 {
+    color: white;
+}
+
+.lead {
+    margin-left: 20px;
+}
+
+.ikonos {
+    text-align: center;
+    color: grey;
+}
+
+
+.section-title {
+    text-align: center;    
+}
+
+section{
+    margin: 40px;
+}
+
+.grey-bg {
+    background-color: rgba(211, 211, 211, 0.993);
+    margin: 0 0;
+}
+
+.bruksnelis {
+    border-bottom: 1px solid grey;
+}
